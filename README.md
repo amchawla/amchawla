@@ -8,7 +8,7 @@ I'm Amit Chawla from India, I am working as DGM and Sr. Principal Architect. I r
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently working at CPaaS & A.I
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding API ideas.
 - 📫 How to reach me: amazing.cool@gmail.com.
